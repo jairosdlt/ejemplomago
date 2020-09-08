@@ -9,4 +9,3 @@ Ejecución:
   1) Ingresar las pociones que ocupe.
   2) click sobre el boton Obtener Ataque A (Solucion A)
   3) click sobre el boton Obtener Ataque B (Solucion B 'Optima')
-
